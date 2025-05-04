@@ -35,7 +35,7 @@ Sniffing WiFi traffic without consent is illegal in many regions. Use responsibl
 
 👩‍💻 Author
 
-Crafted with chaos & curiosity 😈 by YourNameHere
+Crafted with chaos & curiosity by Seventhetic
 
 🧾 License
 
